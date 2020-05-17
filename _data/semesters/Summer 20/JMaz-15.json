@@ -1,0 +1,13 @@
+ {
+       "emoji": ":relaxed:",
+       "role": "Student",
+       "introduction": "I am Jeremy Mazurowski and I am from Dublin OHio. I am a junior studying Software Development.",
+       "achievements": [
+           "Graduated high school with an honors diploma",
+           "High School Baseball captain"
+       ],
+       "links": {
+           "site": "https://it3049c-summer20.github.io/1-online-portfolio-JMaz-15/",
+           
+       }
+   }
